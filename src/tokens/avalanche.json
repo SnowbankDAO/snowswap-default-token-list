@@ -1,6 +1,14 @@
 [
   {
     "chainId": 43114,
+    "address": "0x130966628846BFd36ff31a822705796e8cb8C18D",
+    "decimals": 18,
+    "name": "Magic Internet Money",
+    "symbol": "MIM",
+    "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png"
+  },
+  {
+    "chainId": 43114,
     "address": "0x7d1232b90d3f809a54eeaeebc639c62df8a8942f",
     "decimals": 9,
     "name": "Snowbank",
