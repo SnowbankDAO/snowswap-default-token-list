@@ -27,7 +27,7 @@
     "url": "https://github.com/Uniswap/default-token-list/issues"
   },
   "homepage": "https://github.com/Uniswap/default-token-list#readme",
-  "devDependencies": {
+  "dependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-lists": "^1.0.0-beta.8",
     "ajv": "^6.12.3",
